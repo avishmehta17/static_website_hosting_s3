@@ -46,12 +46,6 @@ Used **IAM Policy Simulator** to test:
 
 ---
 
-## 🔗 Website URL
-
-🌐 [Visit the Website](https://amir-static-website-project.s3.ap-south-1.amazonaws.com/index.html)
-
----
-
 ## 🛡️ Security Practices
 
 - Enforced **MFA (Multi-Factor Authentication)** for IAM user login.
